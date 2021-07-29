@@ -116,8 +116,7 @@ const skills = {
       ],
     },
     {
-      title: "Software",
-      title2: "Development & Deployment",
+      title: "Development & Deployment",
       fileName: "CloudInfraImg",
       skills: [
         "✔️ Experience with OOPs paradigm using Python & C++",
